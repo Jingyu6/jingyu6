@@ -1,6 +1,6 @@
 
 # Jingyu Liu
-[![Commit Badge](https://badges.pufler.dev/commits/yearly/jingyu6)](https://badges.pufler.dev) [![Gmail Badge](https://img.shields.io/badge/-liujingyu-red?style=flat&logo=Gmail&logoColor=white&link=mailto:liujingyu@student.ethz.ch)](mailto:liujingyu@student.ethz.ch)
+[![Gmail Badge](https://img.shields.io/badge/-liujingyu-red?style=flat&logo=Gmail&logoColor=white&link=mailto:liujingyu@student.ethz.ch)](mailto:liujingyu@student.ethz.ch)
 
 ## Bio
 Jingyu is currently a master student at [ETH Zurich](https://ethz.ch/en.html) studying computer science. He holds a bachelor degree in CS with honors from [NYU](https://www.nyu.edu/). Before the master's, he spent a gap year working on building search engines at [Bytedance](https://www.bytedance.com/en/) as a machine learning engineer. 
