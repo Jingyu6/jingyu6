@@ -5,6 +5,8 @@
 ## Bio
 Jingyu is currently a master student at [ETH Zurich](https://ethz.ch/en.html) studying computer science. He holds a bachelor degree in CS with honors from [NYU](https://www.nyu.edu/). Before the master's, he spent a gap year working on building search engines at [Bytedance](https://www.bytedance.com/en/) as a machine learning engineer. 
 
+He will join Meta as an AI resident in August 2022 while on leave for the master's program.
+
 ## Research Interest
 His general goal is to build intelligent systems that can *learn autonomously*, *infer causally*, and *achieve super-human performance*. Specially, he wants to investigate on how to make current reinforcement learning frameworks more *sample-efficient*, *robust*, *risk-averse*, and *applicable to real world settings with minimal human supervision*.
 
