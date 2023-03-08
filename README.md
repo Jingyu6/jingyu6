@@ -10,6 +10,9 @@ He will join Meta as an AI resident in August 2022 while on leave for the master
 ## Research Interest
 His general goal is to build intelligent systems that can *learn autonomously*, *infer causally*, and *achieve super-human performance*. Specially, he wants to investigate on how to make current reinforcement learning frameworks more *sample-efficient*, *robust*, *risk-averse*, and *applicable to real world settings with minimal human supervision*.
 
+## Preprints
+* [CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding](https://arxiv.org/abs/2303.03565)
+
 ## Recent Projects
 Listed are the ones related to reinforcement learning
 * 👨‍💻 Offline Reinforcement Learning with Budget Online Supervision
