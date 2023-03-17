@@ -1,20 +1,17 @@
 
 # Jingyu Liu
-[![Gmail Badge](https://img.shields.io/badge/-liujingyu-red?style=flat&logo=Gmail&logoColor=white&link=mailto:liujingyu@student.ethz.ch)](mailto:liujingyu@student.ethz.ch)
+[![Gmail Badge](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:liujingyu@student.ethz.ch)
+[![LinkedIn Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingyu6)
+
 
 ## Bio
-Jingyu is currently a master student at [ETH Zurich](https://ethz.ch/en.html) studying computer science. He holds a bachelor degree in CS with honors from [NYU](https://www.nyu.edu/). Before the master's, he spent a gap year working on building search engines at [Bytedance](https://www.bytedance.com/en/) as a machine learning engineer. 
+Jingyu is currently an AI resident at Meta. Before that, he started his master program in computer science (currently on leave) at [ETH Zurich](https://ethz.ch/en.html). He holds a bachelor degree in CS with honors from [NYU](https://www.nyu.edu/). Before the master's, he spent a gap year working on building search engines at [Bytedance](https://www.bytedance.com/en/) as a machine learning engineer. 
 
-He will join Meta as an AI resident in August 2022 while on leave for the master's program.
-
-## Research Interest
-His general goal is to build intelligent systems that can *learn autonomously*, *infer causally*, and *achieve super-human performance*. Specially, he wants to investigate on how to make current reinforcement learning frameworks more *sample-efficient*, *robust*, *risk-averse*, and *applicable to real world settings with minimal human supervision*.
 
 ## Preprints
 * [CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding](https://arxiv.org/abs/2303.03565)
 
-## Recent Projects
+## Projects
 Listed are the ones related to reinforcement learning
-* 👨‍💻 Offline Reinforcement Learning with Budget Online Supervision
-* ✅ [Robust Conservative Offline Q-Learning with Gaussian Processes](https://github.com/Jingyu6/CQGP)
-* ✅ [Deep Q-Learning with Backward SARSA](https://github.com/Jingyu6/DQBS)
+* [Robust Conservative Offline Q-Learning with Gaussian Processes](https://github.com/Jingyu6/CQGP)
+* [Deep Q-Learning with Backward SARSA](https://github.com/Jingyu6/DQBS)
