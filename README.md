@@ -9,7 +9,13 @@ Jingyu is currently an AI resident at Meta. Before that, he started his master p
 
 
 ## Preprints
-* [CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding](https://arxiv.org/abs/2303.03565)
+- [CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding](https://arxiv.org/abs/2303.03565)
+  
+  (*Jingyu Liu*, Wenhan Xiong, Ian Jones, Yixin Nie, Anchit Gupta, Barlas Oğuz)
+  
+- [Text-guided 3D Human Generation from 2D Collections](https://arxiv.org/abs/2305.14312)
+
+  (Tsu-Jui Fu, Wenhan Xiong, Yixin Nie, *Jingyu Liu*, Barlas Oğuz, William Yang Wang)
 
 ## Projects
 Listed are the ones related to reinforcement learning
