@@ -2,6 +2,7 @@
 # Jingyu Liu
 [![Gmail Badge](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:liujingyu@student.ethz.ch)
 [![LinkedIn Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingyu6)
+[![Google Scholar](https://img.shields.io/badge/-google%20scholar-brightgreen)](https://scholar.google.com/citations?user=jidrykQAAAAJ&hl=en&authuser=1)
 
 
 ## Bio
