@@ -10,13 +10,17 @@ Jingyu is currently an AI resident at Meta. Before that, he started his master p
 
 
 ## Preprints
+- [Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)
+
+  (Baptiste Rozière*, Jonas Gehring*, Fabian Gloeckle*, Sten Sootla*, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, <ins>Jingyu Liu</ins>, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve*)
+
 - [CLIP-Layout: Style-Consistent Indoor Scene Synthesis with Semantic Furniture Embedding](https://arxiv.org/abs/2303.03565)
   
-  (*Jingyu Liu*, Wenhan Xiong, Ian Jones, Yixin Nie, Anchit Gupta, Barlas Oğuz)
+  (<ins>Jingyu Liu</ins>, Wenhan Xiong, Ian Jones, Yixin Nie, Anchit Gupta, Barlas Oğuz)
   
 - [Text-guided 3D Human Generation from 2D Collections](https://arxiv.org/abs/2305.14312)
 
-  (Tsu-Jui Fu, Wenhan Xiong, Yixin Nie, *Jingyu Liu*, Barlas Oğuz, William Yang Wang)
+  (Tsu-Jui Fu, Wenhan Xiong, Yixin Nie, <ins>Jingyu Liu</ins>, Barlas Oğuz, William Yang Wang)
 
 ## Projects
 Listed are the ones related to reinforcement learning
