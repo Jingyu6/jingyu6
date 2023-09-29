@@ -6,10 +6,16 @@
 
 
 ## Bio
-Jingyu is currently an AI resident at Meta. Before that, he started his master program in computer science (currently on leave) at [ETH Zurich](https://ethz.ch/en.html). He holds a bachelor degree in CS with honors from [NYU](https://www.nyu.edu/). Before the master's, he spent a gap year working on building search engines at [Bytedance](https://www.bytedance.com/en/) as a machine learning engineer. 
+Jingyu is currently a second and last year master student at [ETH Zurich](https://ethz.ch/en.html). During the master's, he spent a year at Meta as an AI resident working on LLMs (long context and code gen models). He holds a bachelor degree in CS with honors from [NYU](https://www.nyu.edu/). Before the master's, he spent a gap year working on building search engines at [Bytedance](https://www.bytedance.com/en/) as a machine learning engineer working on search engines. 
 
 
-## Preprints
+## Research
+(* denotes equal contribution)
+
+- [Effective Long-Context Scaling of Foundation Models](https://arxiv.org/abs/2309.16039)
+  
+  (Wenhan Xiong*, <ins>Jingyu Liu*</ins>, Igor Molybog, Hejia Zhang, Prajjwal Bhargava, Rui Hou, Louis Martin, Rashi Rungta, Karthik Abinav Sankararaman, Barlas Oğuz, Madian Khabsa, Han Fang, Yashar Mehdad, Sharan Narang, Kshitiz Malik, Angela Fan, Shruti Bhosale, Sergey Edunov, Mike Lewis, Sinong Wang, Hao Ma)
+
 - [Code Llama: Open Foundation Models for Code](https://arxiv.org/abs/2308.12950)
 
   (Baptiste Rozière*, Jonas Gehring*, Fabian Gloeckle*, Sten Sootla*, Itai Gat, Xiaoqing Ellen Tan, Yossi Adi, <ins>Jingyu Liu</ins>, Tal Remez, Jérémy Rapin, Artyom Kozhevnikov, Ivan Evtimov, Joanna Bitton, Manish Bhatt, Cristian Canton Ferrer, Aaron Grattafiori, Wenhan Xiong, Alexandre Défossez, Jade Copet, Faisal Azhar, Hugo Touvron, Louis Martin, Nicolas Usunier, Thomas Scialom, Gabriel Synnaeve*)
