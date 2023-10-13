@@ -6,8 +6,12 @@
 
 
 ## Bio
-Jingyu is currently a second and last year master student at [ETH Zurich](https://ethz.ch/en.html). During the master's, he spent a year at Meta as an AI resident working on LLMs (long context and code gen models). He holds a bachelor degree in CS with honors from [NYU](https://www.nyu.edu/). Before the master's, he spent a gap year working on building search engines at [Bytedance](https://www.bytedance.com/en/) as a machine learning engineer working on search engines. 
+Jingyu is currently a second and last year master student at [ETH Zurich](https://ethz.ch/en.html). During the master's, he spent a year at Meta as an AI resident working on LLMs (long context and code gen models) and 3D computer vision. He holds a bachelor degree in CS with honors from [NYU](https://www.nyu.edu/). Before the master's, he spent a gap year working on building search engines at [Bytedance](https://www.bytedance.com/en/) as a machine learning engineer. 
 
+Current research interests:
+- LLMs training and inference efficiency
+- Long context LLMs
+- Deep learning systems
 
 ## Research
 (* denotes equal contribution)
