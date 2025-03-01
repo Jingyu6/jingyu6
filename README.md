@@ -3,6 +3,8 @@
 
 👋 Hi! Please check my [website](https://jingyu6.github.io). 
 
+![Jingyu6's Stats](https://github-readme-stats.vercel.app/api?username=Jingyu6&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+
 <!---
 [![Gmail Badge](https://img.shields.io/badge/-email-red?style=flat&logo=Gmail&logoColor=white)](mailto:liujingyu@student.ethz.ch)
 [![LinkedIn Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jingyu6)
